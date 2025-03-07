@@ -1,7 +1,7 @@
 #include <iostream>
 
 
-//Declarations
+//Declaratjkshdfkdions
 void f1();
 void f2();
 void f3();
